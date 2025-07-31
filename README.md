@@ -65,6 +65,11 @@ FurnitureFactory.API/
 ->Update-Database
 
 4- Run the API:
+-> dotnet run --project FurnitureFactory.API
+
+👨‍💻 Author
+This project was developed by Eng. Mahmoud Ahmed as part of a production system for a furniture manufacturing company.
+
 
 -> dotnet run --project FurnitureFactory.API![API](https://github.com/user-attachments/assets/875eca78-ad68-4679-aaef-d6e1396fa28b)
 
