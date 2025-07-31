@@ -48,7 +48,7 @@ FurnitureFactory.API/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YourRepo/FurnitureFactory.API.git
+   git clone https://github.com/MahmoudELdeba34/Furniture-Factory-API.git
 2. Set up the connection string in appsettings.json:
 
 "ConnectionStrings": {
